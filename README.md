@@ -65,3 +65,24 @@ GINGER WINE
 - Add lemons, orange and ginger mix to the yeast.
 - Cover and keep in a dark place for 21 days.... stir 30 seconds per day.
 - Strain on 21st day.
+
+
+*
+
+finley
+1m
+I’m not convinced it’s possible to make anything drinkable in three days. Yes, the primary fermentation may well finish in that short time period, but it will be still cloudy with yeast and it’s going to have all kinds of weird flavours in it that will take time to mellow out. Patience, young grasshopper!
+
+Few tips for brewing pretty much anything:
+
+Do separate your primary and secondary fermentation (the secondary fermentation really isn’t even fermentation, it’s the yeast sort of winding up it’s activity and going to sleep).
+If you’re making wine, leave it to mellow for weeks or months until it’s drinkable. It takes as long as it takes. Beer is ready on much shorter timescales (a couple of weeks to couple a months).
+Use an actual wine or beer yeast. Bread yeast will sort-of work but you won’t get much alcohol in it and it won’t taste great.
+Distilled spirits that taste like crap or have methanol in them are just down to poor distillation technique, not the stuff they started with. You can ferment almost anything and the distilled end result will taste more-or-less OK as long as you discard most of the flavour components during distillation (which basically means the first and last bits).
+
+You need some serious kit (multistage reflux condenser optimized for alcoholic products) to produce good-quality distilled spirits. A moonshine setup will be a long way off optimal.
+
+
+
+
+
