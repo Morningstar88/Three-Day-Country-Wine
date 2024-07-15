@@ -3,6 +3,8 @@ Beautiful Bali Wine
 
 Arise… ancient thread.
 
+https://tw.forumosa.com/t/home-brewing-and-winemaking-supplies/8439/34
+
 They have awesome Arak in Bali. In Cambodia, they make their whiskey from car tyres, I guess. Full of methanol.
 
 But the local fruit wine is good.
