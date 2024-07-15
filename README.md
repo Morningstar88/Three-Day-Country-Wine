@@ -30,3 +30,5 @@ BASICS
 https://www.google.com/search?q=does+chlorine+inhibit+yeast+fermentation&
 
 https://www.quora.com/To-what-extent-does-chlorinated-water-affect-yeast-activity-in-bread-dough
+
+https://www.reddit.com/r/Homebrewing/comments/bknppi/can_i_use_active_dry_yeast_for_wine/?rdt=54774
