@@ -31,4 +31,10 @@ https://www.google.com/search?q=does+chlorine+inhibit+yeast+fermentation&
 
 https://www.quora.com/To-what-extent-does-chlorinated-water-affect-yeast-activity-in-bread-dough
 
+Not on Forumosa
+
 https://www.reddit.com/r/Homebrewing/comments/bknppi/can_i_use_active_dry_yeast_for_wine/?rdt=54774
+
+H202
+
+https://www.homebrewtalk.com/threads/what-about-using-hydrogen-peroxide-to-clean-sanitize.68/
